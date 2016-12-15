@@ -1,0 +1,10 @@
+Download all the files in this folder.
+
+To run the JAR file either double-click or use the command line.
+
+To run form the command line:
+1) Open command prompt and change directories to the folder containing the JAR file
+2) Type java -jar CandyCrush.jar
+
+
+IMPORTANT: MAKE SURE ALL THE SUPPORTNG FILES ARE IN THE SAME FOLDER AS THE JAR FILE.
